@@ -20,6 +20,11 @@ Your deck has a number of components:
 **40 Main Deck cards:** These are the unites and spells that you'll play during the game. One of these is your Chosen Champion, which goes to your Champion Zone alongside your legend. Shuffle the remaining 39 cards to become your starting Main Deck.
 
 ## Chosen Champion
+Your **Chose Champion** is a champion unit that matches your Champion Legend. It starts in your Main Deck, but is put in the Champion Zone before the game. You can choose any Champion unit whose tag matches your Champion Legend. Your Main Deck can have a maximum of 3 copies of each card, including your Chosen Champion.
+
+You can also include up to 3 copies of a signature card that matches your Champion Legend -- usually a signature spell. Signature cards can only be included with their matching legend.
+
+Your Champion Legend, Chosen Champion, and signature cards often point to a particular strategy, like playing lots of units or discarding cards. Your other Main Deck cards and even your battlefields can help support that strategy.
 
 ## Key Game Terms
 
