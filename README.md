@@ -28,6 +28,18 @@ Your Champion Legend, Chosen Champion, and signature cards often point to a part
 
 ## Key Game Terms
 
+**Card:** This refers to a card in your Main Deck! It doesnt include legends, runes, battlefields, or tokens.
+
+**Ready:** This card or rune is upright and ready to be used!
+
+**Exhaust:** Cards, runes, and legends exhaust, or turn sideways, to move or use ⤵️ abilities. They can't exhaust again until readied.
+
+**Recycle:** Put a card or rune on the bottom of the appropriate deck.
+
+**Channel:** Take the top run(s) of your Rune Deck and put them on the board. You channel 2 runes at the start of each turn, and spells and abilities may tell you to channel at other times.
+
+**Token:** Tokens are units that are created during play instead of starting in your deck. You can use printed tokens to represent them, but don't worry if you run out -- anything you can clearly ready and exhaust can be a token!
+
 ## Setting up the Game
 
 ## Starting the Game
